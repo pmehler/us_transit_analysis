@@ -1,3 +1,15 @@
+CENSUS DATA:
+https://www.socialexplorer.com/a9676d974c/explore
+
+PUBLIC TRANSPORT NYC:
+https://transitfeeds.com/p/mta
+
+
+
+
+
+
+
 EVERYTHING DUMP:
 https://github.com/MobilityData/mobility-database-catalogs/tree/main/catalogs/sources/gtfs/schedule
 
