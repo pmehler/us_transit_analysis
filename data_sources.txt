@@ -4,8 +4,31 @@ https://www.socialexplorer.com/a9676d974c/explore
 PUBLIC TRANSPORT NYC:
 https://transitfeeds.com/p/mta
 
+NYC subway:
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mta/886/20220317/gtfs.zip
 
+metro_north:
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mta/87/20220422/gtfs.zip
 
+nyc ferry:
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/nyc-ferry/944/20220424/gtfs.zip
+
+BUSES:
+
+MTA Manhattan gtfs
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mta/82/20220325/gtfs.zip
+
+mta bronx gtfs:
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mta/81/20220324/gtfs.zip
+
+mat Brooklyn gtfs:
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mta/80/20220324/gtfs.zip
+
+mta queens gtfs:
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mta/83/20220325/gtfs.zip
+
+mat staten island gtfs:
+https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mta/84/20220325/gtfs.zip
 
 
 
